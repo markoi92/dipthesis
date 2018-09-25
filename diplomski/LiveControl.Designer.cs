@@ -19,7 +19,7 @@
             }
             base.Dispose(disposing);
         }
-        //to sam ja
+        
 
         #region Component Designer generated code
 
