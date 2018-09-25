@@ -77,12 +77,6 @@
     <Compile Include="Event.cs">
       <DependentUpon>DiplomskiModel.tt</DependentUpon>
     </Compile>
-    <Compile Include="Form1.cs">
-      <SubType>Form</SubType>
-    </Compile>
-    <Compile Include="Form1.Designer.cs">
-      <DependentUpon>Form1.cs</DependentUpon>
-    </Compile>
     <Compile Include="Kontrola.cs">
       <SubType>Form</SubType>
     </Compile>

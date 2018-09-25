@@ -108,6 +108,7 @@ namespace diplomski
                         {
                             Tag addtag = new Tag { tag1 = StrTag };
                             //evo nesto
+                            MessageBox.Show("test Git");
                             entity.Tags.Add(addtag);
                             entity.SaveChanges();
                         }
